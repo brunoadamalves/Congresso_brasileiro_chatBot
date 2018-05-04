@@ -8,6 +8,6 @@ A idéia é criar um chatBot para poder consultar informações sobre senadores 
 
 ![alt text](https://github.com/brunoadamalves/Congresso_brasileiro_chatBot/blob/master/Images/cap.PNG)
 
-![alt text](https://github.com/brunoadamalves/Congresso_brasileiro_chatBot/blob/master/Images/cap.PNG)
+![alt text](https://github.com/brunoadamalves/Congresso_brasileiro_chatBot/blob/master/Images/cap2.PNG)
 
-![alt text](https://github.com/brunoadamalves/Congresso_brasileiro_chatBot/blob/master/Images/cap.PNG)
+![alt text](https://github.com/brunoadamalves/Congresso_brasileiro_chatBot/blob/master/Images/Cap%203.PNG)
