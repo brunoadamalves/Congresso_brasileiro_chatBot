@@ -1,0 +1,64 @@
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Bot Application.dll.config
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Bot Application.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Bot Application.pdb
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Autofac.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Chronic.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Microsoft.Bot.Builder.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Microsoft.Bot.Connector.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Microsoft.Cognitive.LUIS.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Microsoft.IdentityModel.Logging.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Microsoft.IdentityModel.Protocols.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Microsoft.IdentityModel.Tokens.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Newtonsoft.Json.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\System.Net.Http.Formatting.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\System.Web.Http.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\System.Web.Http.WebHost.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Autofac.xml
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Microsoft.Bot.Builder.xml
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Microsoft.Bot.Connector.xml
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Microsoft.IdentityModel.Logging.xml
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Microsoft.IdentityModel.Protocols.xml
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Microsoft.IdentityModel.Tokens.xml
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\Newtonsoft.Json.xml
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\System.Net.Http.Formatting.xml
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\System.Web.Http.xml
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\System.Web.Http.WebHost.xml
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\it\Microsoft.Bot.Builder.resources.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\nl\Microsoft.Bot.Builder.resources.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\ar\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\cs\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\de-dE\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\en\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\es\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\fa\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\obj\Release\botCongresso.csprojResolveAssemblyReference.cache
+c:\users\bruno\source\repos\botCongresso\botCongresso\obj\Release\botCongresso.csproj.CoreCompileInputs.cache
+c:\users\bruno\source\repos\botCongresso\botCongresso\obj\Release\Bot Application.dll
+c:\users\bruno\source\repos\botCongresso\botCongresso\obj\Release\Bot Application.pdb
